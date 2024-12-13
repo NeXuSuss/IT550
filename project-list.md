@@ -22,3 +22,5 @@
 | 20  | Causal Analysis of Mental Health Issues in social Media Posts| Autumn 2024 | [Report](https://raw.githubusercontent.com/parth126/IT550/main/reports/CAMS_ISSUE_7.pdf) | [PPT](https://raw.githubusercontent.com/parth126/IT550/main/presentations/ISSUE_7_CAMS.pptx) |
 | 21  | Utilizing Deep Learning for Hybrid Retrieval and Multi-Stage Text Ranking | Autumn 2024 | [Report](https://raw.githubusercontent.com/parth126/IT550/main/reports/IT550___Extended_Abstract_Issue_29.pdf) | [PPT](https://raw.githubusercontent.com/parth126/IT550/main/presentations/Issue_29.pdf) |
 | 22  | Text representation for direction prediction of share market - Reproducibility | Autumn 2024 | [Report](https://raw.githubusercontent.com/parth126/IT550/main/reports/IT550___Extended_Abstract__18.pdf) | [PPT](https://raw.githubusercontent.com/parth126/IT550/main/presentations/IT550_Project_PPT_18.pdf) |
+| 23  | Text summarization by extractive methods  |  Autumn 2024 | [Report](https://raw.githubusercontent.com/parth126/IT550/main/reports/Fantastic_4.pdf) | [PPT](https://raw.githubusercontent.com/parth126/IT550/main/presentations/Fantastic_4_presentation.pdf) |
+
